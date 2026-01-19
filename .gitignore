@@ -162,7 +162,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -406,4 +405,3 @@ temp/
 
 # Coverage reports
 coverage/
-CodeCoverage/
