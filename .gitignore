@@ -26,6 +26,8 @@ bld/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+.dotnet/
+.tools/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
@@ -54,10 +56,6 @@ ScaffoldingReadMe.txt
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-
-# .NET Core
-.dotnet/
-.tools/
 
 # ==========================================
 # Python (ai-python)
@@ -122,8 +120,6 @@ pytestdebug.log
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
-db.sqlite3-journal
 
 # Flask stuff:
 instance/
